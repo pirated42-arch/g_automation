@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+activity-booster.log
+commit_schedule.db
+repos/
+.env
+*.log
